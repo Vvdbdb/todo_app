@@ -28,6 +28,17 @@ services:
     depends_on:
       - db
 
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: ../docker/Dockerfiles/Dockerfile.frontend
+    container_name: todo-frontend
+    volumes:
+      - frontend-build:/app/dist
+    command: echo "Frontend built"  # Ne tourne pas comme serveur
+    depends_on:
+      - backend
+
 volumes:
   postgres_data:
   frontend-build:
