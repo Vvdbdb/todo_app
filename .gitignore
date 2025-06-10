@@ -1,0 +1,19 @@
+ECHO is on.
+
+# Fichiers système/éditeurs
+.DS_Store
+.thumbs.db
+.idea/
+.vscode/
+
+# Dépendances
+node_modules/
+npm-debug.log
+
+# Environnements
+.env
+*.local
+
+# Build
+dist/
+build/
