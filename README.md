@@ -130,9 +130,11 @@ Fonctionnalites
 
 
 Video de demonstration
-
-> (a completer avec un lien )  
 Detail : demonstration du lancement, de l'utilisation et des roles de chaque membre de l equipe.
+
+lien Drive:
+https://esmtsn-my.sharepoint.com/:v:/g/personal/tigwende_kabore_etu_esmt_sn/EWJytl7MS59CntAnPE67bQkBz32B0Xx5c40hUsJiN2GzTA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mayL3Q
+
 
 Repartition des roles
 
